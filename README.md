@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/asna-amjad/asna-amjad/blob/8657be150de7495cd9a10d4e56df2391c78521cf/data-analyst-banner.jpg)
+![MasterHead](https://github.com/asna-amjad/asna-amjad/blob/b6efb9029aeb96e5246cdcdb6784e495b319f90f/1.png)
 
 <h1 align="center">Hi, I'm Asna Amjad</h1>
 <h3 align="center">I’m a curious and detail-oriented data enthusiast who loves uncovering the stories hidden within data. I enjoy exploring datasets, solving analytical problems, and transforming raw information into meaningful insights that drive better decisions. Before transitioning into data analytics, I worked in computational biology and bioinformatics, where I developed strong analytical thinking and data-driven problem-solving skills. Now, I’m applying those skills to business and healthcare analytics while continuously expanding my technical toolkit. Welcome to my GitHub</h3>
