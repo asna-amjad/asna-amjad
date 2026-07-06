@@ -1,4 +1,5 @@
 ![MasterHead](https://www.vecteezy.com/vector-art/2280240-data-analysis-vector-banner.jpg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:06b6d4&height=250&section=header&text=Asna%20Amjad&fontSize=45&fontColor=ffffff" width="100%" />
 <h1 align="center">Hi, I'm Asna Amjad</h1>
 <h3 align="center">I’m a curious and detail-oriented data enthusiast who loves uncovering the stories hidden within data. I enjoy exploring datasets, solving analytical problems, and transforming raw information into meaningful insights that drive better decisions. Before transitioning into data analytics, I worked in computational biology and bioinformatics, where I developed strong analytical thinking and data-driven problem-solving skills. Now, I’m applying those skills to business and healthcare analytics while continuously expanding my technical toolkit. Welcome to my GitHub</h3>
 
