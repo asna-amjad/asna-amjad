@@ -1,4 +1,4 @@
-![MasterHead](https://www.vecteezy.com/vector-art/2280240-data-analysis-vector-banner)
+![MasterHead](https://www.vecteezy.com/vector-art/2280240-data-analysis-vector-banner.jpg)
 <h1 align="center">Hi 👋, I'm Asna Amjad</h1>
 <h3 align="center">I’m a curious and detail-oriented data enthusiast who loves uncovering the stories hidden within data. I enjoy exploring datasets, solving analytical problems, and transforming raw information into meaningful insights that drive better decisions. Before transitioning into data analytics, I worked in computational biology and bioinformatics, where I developed strong analytical thinking and data-driven problem-solving skills. Now, I’m applying those skills to business and healthcare analytics while continuously expanding my technical toolkit. Outside of data, you’ll probably find me experimenting with new side projects, exploring productivity hacks, or trying new recipes. Welcome to my GitHub</h3>
 <img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif">
