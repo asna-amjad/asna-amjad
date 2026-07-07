@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Data Analytics, Python, PostgreSQL**
 
-- 📫 Reach me at **asnaamjad4@@gmail.com**
+- 📫 Reach me at **asnaamjad4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
