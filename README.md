@@ -22,3 +22,6 @@ alt="excel" width="40" height="40"/> </a> <a href="https://www.tableau.com/" tar
 <a href="https://www.stratascratch.com/" target="_blank" rel="noreferrer">
   <img src="https://avatars.githubusercontent.com/u/27774186?s=200&v=4" alt="StrataScratch" width="40" height="40"/>
 </a>
+<a href="https://www.stratascratch.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.google.com/s2/favicons?domain=stratascratch.com&sz=64" alt="StrataScratch" width="40" height="40"/>
+</a>
