@@ -18,6 +18,9 @@
 <a href="https://www.stratascratch.com/asnaamjad4" target="_blank">
   <img align="center" src="https://www.stratascratch.com/images/logo.png" alt="asnaamjad4" height="30" width="40" />
 </a>
+<a href="https://www.stratascratch.com/" target="_blank">
+  <img align="center" src="https://www.stratascratch.com/images/logo.png" alt="StrataScratch" height="30" width="40" />
+</a>
 
 </p>
 
