@@ -15,9 +15,6 @@
 <a href="https://www.kaggle.com/asnaamjad4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="asnaamjad4" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/asnaamjad4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asnaamjad4" height="30" width="40" /></a>
 <a href="https://www.stratascratch.com/" target="blank"><img align="center" src="https://www.google.com/s2/favicons?domain=stratascratch.com&sz=64" alt="StrataScratch" width="40" height="30"/></a>
-  <a href="https://www.stratascratch.com/" target="_blank">
-  <img align="center" src="https://www.stratascratch.com/images/logo.png" alt="StrataScratch" height="30" width="40" />
-</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
